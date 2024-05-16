@@ -20,15 +20,14 @@ Senior Data Analyst, assisting enterprises by supporting data-driven decision-ma
 EMAIL = "dvrchipro@gmail.com"
 SOCIAL_MEDIA = {
     "YouTube": "https://www.youtube.com/channel/UCEjNkwkwYXZ68FmCqfin7lQ",
-    "LinkedIn": "https://linkedin.com",
     "GitHub": "https://github.com/DvGt-dev",
-    "Twitter": "https://twitter.com",
-    "Instagram": "https://instagram.com",
 }
+
+
 PROJECTS = {
-    "🏆": "https://youtu.be/Sb0A9i6d320",
-    "🏆": "https://youtu.be/3egaMfE9388",
-    "🏆": "https://youtu.be/LzCfNanQ_9c",
+    "🏆": "https://youtu.be/",
+    "🏆": "https://youtu.be/",
+    "🏆": "https://youtu.be/",
     "🏆": "https://pythonandvba.com/mytoolbelt/",
     "🏆 test link image": r"assets\\profile-pic.png",
 }

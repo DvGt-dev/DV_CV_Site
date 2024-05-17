@@ -1,4 +1,4 @@
 Pillow==9.2.0
 streamlit==1.12.0 # a mettre a jour
 
-altair # a installer (amis pas sur que c est necessaire)
+# altair # a installer (amis pas sur que c est necessaire)

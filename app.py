@@ -87,7 +87,7 @@ Cameron (ONAC)
 Mission : Programmeur, projeteur, coursier, architecte de suivi etc.
 Cabinet Serge ELOUNDOU – SETREC AUI Sarl de M. LUNDOU 
 GAMBOGO Serge A., ONAC n°1996/142. Ref : A servi une dizaine 
-d’années à la BEAC centrale- Yaoundé-Cameroun
+d’années à la BEAC centrale- Yaoundé-Cameroun.
 __________________
 
 - ✔️ 08 Octobre 2019 au 15 Décembre 2019(02 Mois) : Stage
@@ -191,4 +191,4 @@ for project, link in PROJECTS.items():
     st.write(f"[{project}]({link})")
 
 
-# qssfdg
+# autres 

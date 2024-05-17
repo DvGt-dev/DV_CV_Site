@@ -50,7 +50,7 @@ streamlit run app.py
 - 🌐 **Website:** [PythonAndVBA](https://pythonandvba.com)
 - 💬 **Discord:** [Join our Community](https://pythonandvba.com/discord)
 - 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sven-bosau/)
-- 📸 **Instagram:** [Follow me](https://www.instagram.com/codingisfun_official/)
+- 📸 **Instagram:** [Follow me](/)
 
 ## Support My Work
 
